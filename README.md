@@ -1,4 +1,4 @@
-# Nino Lancette
+# Nino (ninonline)
 
 I make software products. Some are AI-native, others I retrofit with AI.
 
