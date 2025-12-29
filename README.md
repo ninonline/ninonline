@@ -14,11 +14,11 @@ I'm Principal AI Product Manager at [VideoMy](https://videomyjob.com/). We make 
 
 I'm a key contributor in internal (hobby) projects from @plannededge.
 
-**[Goast](https://goast.app)** - A social message app, for groups conversations that matter: No admins. No drama. No spam. Just vibes. Goast is an AI-native project.
+**[Goast](https://goast.app)** - A social message app, for group conversations that matter: No admins. No drama. No spam. Just vibes. Goast is an AI-native project.
 
 **[InvoiceGrid AI](https://invoicegrid.app/)** - An AI-powered invoice management application for Xero organisations. Invoicegrid is an AI-native project.
 
-**[Vellma](https://vellma.app/)** - It started as a personal tools to help me communicate effectively in sensitive matters (conflict, legal conversations, emotionally-loaded issues). Vellma is a privacy-focused AI communication assistant for Gmail.
+**[Vellma](https://vellma.app/)** - It started as a personal tool to help me communicate effectively in sensitive matters (conflict, legal conversations, emotionally-loaded issues). Vellma is a privacy-focused AI communication assistant for Gmail.
 
 ---
 
