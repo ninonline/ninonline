@@ -1,0 +1,10 @@
+# AI assistant context (private)
+CLAUDE.md
+
+# Internal documentation folders
+.devdocs/
+.agentdocs/
+
+# Common ignores
+.DS_Store
+*.log
