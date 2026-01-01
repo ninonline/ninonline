@@ -18,6 +18,8 @@ I'm a key contributor in internal (hobby) projects from @plannededge.
 
 **[InvoiceGrid AI](https://invoicegrid.app/)** - An AI-powered invoice management application for Xero organisations. Invoicegrid is an AI-native project.
 
+**[Xero Dev MCP Server](https://github.com/ninonline/xerodev-mcp)** - An MCP server for developers that mocks Xero API and Auth, as well as common CRUD actions. I made it while working on Invoicegrid. 
+
 **[Vellma](https://vellma.app/)** - It started as a personal tool to help me communicate effectively in sensitive matters (conflict, legal conversations, emotionally-loaded issues). Vellma is a privacy-focused AI communication assistant for Gmail.
 
 ---
