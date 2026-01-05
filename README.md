@@ -22,6 +22,8 @@ I'm a key contributor in internal (hobby) projects from @plannededge.
 
 **[Vellma](https://vellma.app/)** - It started as a personal tool to help me communicate effectively in sensitive matters (conflict, legal conversations, emotionally-loaded issues). Vellma is a privacy-focused AI communication assistant for Gmail.
 
+I opened my **[Codebook](https://github.com/plannededge/codebook)** - boostraped my project development setup for Claude Code.
+
 ---
 
 ## On building AI products 
