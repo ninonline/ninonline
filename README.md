@@ -4,7 +4,7 @@ I make software products. Some are AI-native, others I retrofit with AI.
 
 I'm Principal AI Product Manager at [VideoMy](https://videomyjob.com/). We make employee-generated content easy and scalable for enterprise talent teams.
 
-[LinkedIn](https://www.linkedin.com/in/ninolancette/) | [Substack](https://ninonline.substack.com/)
+Reach out on [LinkedIn](https://www.linkedin.com/in/ninolancette/), or read me irregular posts on [Substack](https://ninonline.substack.com/).
 
 ---
 
@@ -38,7 +38,7 @@ In 2025, prototyping AI features was relatively easy (and fun). Shipping them we
 
 The technical part is often straightforward (and exciting). The harder questions were about creating new UX patterns, handling new failure modes and managing generative output.
 
-Building AI features require new tools for observability, guardrailing, and fine-tuning. 
+Shipping valuable AI features require new tools - e.g. for observability, guardrailing, and fine-tuning, optimising. If you want to make AI-first products, or even just bake LLMs into an existing application, be prepared to build a different kind of product team. It's not just the stack that's new; the SPLF and methodology are too.  
 
 In 2026, as even more powerful models emerge, not every opportunity will need an AI feature; not every problem will demand an AI solution. It's the AI PM's mission to find out which ones do.
 
