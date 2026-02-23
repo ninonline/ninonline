@@ -2,19 +2,15 @@
 
 I make software products. Some are AI-native, others I retrofit with AI.
 
-I'm Principal AI Product Manager at [VideoMy](https://videomyjob.com/). We make employee-generated content easy and scalable for enterprise talent teams.
-
 Reach out on [LinkedIn](https://www.linkedin.com/in/ninolancette/), or read me irregular posts on [Substack](https://ninonline.substack.com/).
 
 ---
 
 ## What I'm working on
 
-**[VideoMy](https://videomyjob.com/)** - I build AI features that cut video production time dramatically. I bake AI into our core features like script writing, pre-recording checks, post-recording enhancements, video editing and derivative content generation.
+Beside my work in product management, I'm a key contributor in internal (hobby) projects from @plannededge.
 
-I'm a key contributor in internal (hobby) projects from @plannededge.
-
-**[Goast](https://goast.app)** - A social message app, for group conversations that matter: No admins. No drama. No spam. Just vibes. Goast is an AI-native project.
+**[Goast](https://goast.chat)** - A social message app, for group conversations that matter: No admins. No drama. No spam. Just vibes. Goast is an AI-native project.
 
 **[InvoiceGrid AI](https://invoicegrid.app/)** - An AI-powered invoice management application for Xero organisations. Invoicegrid is an AI-native project.
 
@@ -31,15 +27,5 @@ Also, **[Xero Dev MCP Server](https://github.com/ninonline/xerodev-mcp)** - An M
 
 ### Claude Code Bootstrap
 I opened my **[Codebook](https://github.com/plannededge/codebook)** - boostraped my project development setup for Claude Code. Used daily for maintaining best dev and devops practices across product developments.
-
-## On building AI products 
-
-In 2025, prototyping AI features was relatively easy (and fun). Shipping them well was the hard part. 
-
-The technical part is often straightforward (and exciting). The harder questions were about creating new UX patterns, handling new failure modes and managing generative output.
-
-Shipping valuable AI features require new tools - e.g. for observability, guardrailing, and fine-tuning, optimising. If you want to make AI-first products, or even just bake LLMs into an existing application, be prepared to build a different kind of product team. It's not just the stack that's new; the SPLF and methodology are too.  
-
-In 2026, as even more powerful models emerge, not every opportunity will need an AI feature; not every problem will demand an AI solution. It's the AI PM's mission to find out which ones do.
 
 ---
